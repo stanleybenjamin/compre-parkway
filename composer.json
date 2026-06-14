@@ -22,7 +22,7 @@
         "mockery/mockery": "1.7.x-dev"
     },
     "require": {
-        "aws/aws-sdk-php": "3.306.0",
+        "aws/aws-sdk-php": "^3.371.4",
         "laravel/framework": "^8.75",
         "fakerphp/faker": "^1.22"
     },
